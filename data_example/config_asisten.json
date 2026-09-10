@@ -1,0 +1,124 @@
+{
+  "assistants": [
+    {
+      "id": "ASST_001",
+      "nama_asisten": "TRIA",
+      "nama_panjang": "Ni Nyoman Sutriani",
+      "panggilan": "Tria",
+      "NIM": "202432037",
+      "no_telp": "088290719277"
+    },
+    {
+      "id": "ASST_002",
+      "nama_asisten": "BULAN",
+      "nama_panjang": "Petique Bulan Nanindah",
+      "panggilan": "Bulan",
+      "NIM": "202432046",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_003",
+      "nama_asisten": "ADI",
+      "nama_panjang": "Adhiwira Wildan Pratama",
+      "panggilan": "Adi",
+      "NIM": "202431089",
+      "no_telp": "088290719277"
+    },
+    {
+      "id": "ASST_004",
+      "nama_asisten": "ARI",
+      "nama_panjang": "Ari Putra Frederick Leluly",
+      "panggilan": "Ari",
+      "NIM": "202331280",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_005",
+      "nama_asisten": "RAFI",
+      "nama_panjang": "Rafi Indra Pramudhito Zuhayr",
+      "panggilan": "Rafi",
+      "NIM": "202331291",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_006",
+      "nama_asisten": "NAUFAL",
+      "nama_panjang": "Naufal Burhani Sidi",
+      "panggilan": "Naufal",
+      "NIM": "202331291",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_007",
+      "nama_asisten": "GANGSAR",
+      "nama_panjang": "Gangsar Anjasmoro",
+      "panggilan": "Gangsar",
+      "NIM": "202431170",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_008",
+      "nama_asisten": "MEGAN",
+      "nama_panjang": "Achmad Sapta Megan Nugroho",
+      "panggilan": "Megan",
+      "NIM": "202332119",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_009",
+      "nama_asisten": "KHASYI",
+      "nama_panjang": "Muhammad Khasyi Athallah",
+      "panggilan": "Khasyi",
+      "NIM": "202431175",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_010",
+      "nama_asisten": "NADHIL",
+      "nama_panjang": "Muhammad Nadhil Arsy Al-Wafi",
+      "panggilan": "Nadhil",
+      "NIM": "202331303",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_011",
+      "nama_asisten": "ARIF",
+      "nama_panjang": "Arif Rizki Kurniadi",
+      "panggilan": "Arif",
+      "NIM": "202432089",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_012",
+      "nama_asisten": "TASYA",
+      "nama_panjang": "Tasya Kartika Sari",
+      "panggilan": "Tasya",
+      "NIM": "202332006",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_013",
+      "nama_asisten": "PETRA",
+      "nama_panjang": "Petra Juliansen Manullang",
+      "panggilan": "Petra",
+      "NIM": "202431127",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_014",
+      "nama_asisten": "ZAHRA",
+      "nama_panjang": "Zahratul Ahya",
+      "panggilan": "Zahra",
+      "NIM": "202332001",
+      "no_telp": "081997613495"
+    },
+    {
+      "id": "ASST_015",
+      "nama_asisten": "RIDZIEQ",
+      "nama_panjang": "Muhammad Ridzieq Fachriansyah",
+      "panggilan": "Ridzieq",
+      "NIM": "202331070",
+      "no_telp": "081997613495"
+    }
+  ]
+}

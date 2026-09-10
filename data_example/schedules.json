@@ -1,0 +1,210 @@
+{
+  "schedules": [
+    {
+      "id": "SCHED_001",
+      "course_id": "COURSE_002",
+      "lecturer_id": "LECTURER_001",
+      "class": "A",
+      "day": "Senin",
+      "time": "07.20 - 09.50",
+      "pj_assistant_id": "ASST_001",
+      "assistant_ids": [
+        "ASST_006",
+        "ASST_012",
+        "ASST_007"
+      ]
+    },
+    {
+      "id": "SCHED_002",
+      "course_id": "COURSE_001",
+      "lecturer_id": "LECTURER_002",
+      "class": "D",
+      "day": "Senin",
+      "time": "10.10 - 11.50",
+      "pj_assistant_id": "ASST_009",
+      "assistant_ids": [
+        "ASST_007",
+        "ASST_003"
+      ]
+    },
+    {
+      "id": "SCHED_003",
+      "course_id": "COURSE_002",
+      "lecturer_id": "LECTURER_001",
+      "class": "B",
+      "day": "Senin",
+      "time": "13.00 - 15.30",
+      "pj_assistant_id": "ASST_002",
+      "assistant_ids": [
+        "ASST_001",
+        "ASST_008",
+        "ASST_011"
+      ]
+    },
+    {
+      "id": "SCHED_004",
+      "course_id": "COURSE_002",
+      "lecturer_id": "LECTURER_001",
+      "class": "C",
+      "day": "Selasa",
+      "time": "07.20 - 09.50",
+      "pj_assistant_id": "ASST_007",
+      "assistant_ids": [
+        "ASST_009",
+        "ASST_010",
+        "ASST_013"
+      ]
+    },
+    {
+      "id": "SCHED_005",
+      "course_id": "COURSE_001",
+      "lecturer_id": "LECTURER_003",
+      "class": "B",
+      "day": "Selasa",
+      "time": "10.10 - 11.50",
+      "pj_assistant_id": "ASST_014",
+      "assistant_ids": [
+        "ASST_001",
+        "ASST_003",
+        "ASST_013"
+      ]
+    },
+    {
+      "id": "SCHED_006",
+      "course_id": "COURSE_004",
+      "lecturer_id": "LECTURER_004",
+      "class": "C",
+      "day": "Selasa",
+      "time": "13.00 - 15.30",
+      "pj_assistant_id": "ASST_012",
+      "assistant_ids": [
+        "ASST_005",
+        "ASST_006",
+        "ASST_008"
+      ]
+    },
+    {
+      "id": "SCHED_007",
+      "course_id": "COURSE_005",
+      "lecturer_id": "LECTURER_005",
+      "class": "A",
+      "day": "Rabu",
+      "time": "08.10 - 09.50",
+      "pj_assistant_id": "ASST_003",
+      "assistant_ids": [
+        "ASST_009",
+        "ASST_010",
+        "ASST_013"
+      ]
+    },
+    {
+      "id": "SCHED_008",
+      "course_id": "COURSE_005",
+      "lecturer_id": "LECTURER_005",
+      "class": "B",
+      "day": "Rabu",
+      "time": "10.10 - 11.50",
+      "pj_assistant_id": "ASST_010",
+      "assistant_ids": [
+        "ASST_004",
+        "ASST_008",
+        "ASST_009"
+      ]
+    },
+    {
+      "id": "SCHED_009",
+      "course_id": "COURSE_004",
+      "lecturer_id": "LECTURER_004",
+      "class": "A",
+      "day": "Rabu",
+      "time": "13.00 - 15.30",
+      "pj_assistant_id": "ASST_006",
+      "assistant_ids": [
+        "ASST_012",
+        "ASST_014"
+      ]
+    },
+    {
+      "id": "SCHED_010",
+      "course_id": "COURSE_006",
+      "lecturer_id": "LECTURER_006",
+      "class": "C",
+      "day": "Kamis",
+      "time": "07.20 - 09.50",
+      "pj_assistant_id": "ASST_013",
+      "assistant_ids": [
+        "ASST_003",
+        "ASST_007",
+        "ASST_009"
+      ]
+    },
+    {
+      "id": "SCHED_011",
+      "course_id": "COURSE_001",
+      "lecturer_id": "LECTURER_002",
+      "class": "E",
+      "day": "Kamis",
+      "time": "10.10 - 11.50",
+      "pj_assistant_id": "ASST_008",
+      "assistant_ids": [
+        "ASST_001",
+        "ASST_002",
+        "ASST_011"
+      ]
+    },
+    {
+      "id": "SCHED_012",
+      "course_id": "COURSE_007",
+      "lecturer_id": "LECTURER_007",
+      "class": "C",
+      "day": "Kamis",
+      "time": "10.10 - 11.50",
+      "pj_assistant_id": "ASST_015",
+      "assistant_ids": [
+        "ASST_010"
+      ]
+    },
+    {
+      "id": "SCHED_013",
+      "course_id": "COURSE_003",
+      "lecturer_id": "LECTURER_008",
+      "class": "E",
+      "day": "Kamis",
+      "time": "13.00 - 15.30",
+      "pj_assistant_id": "ASST_015",
+      "assistant_ids": [
+        "ASST_002",
+        "ASST_004",
+        "ASST_005"
+      ]
+    },
+    {
+      "id": "SCHED_014",
+      "course_id": "COURSE_001",
+      "lecturer_id": "LECTURER_003",
+      "class": "C",
+      "day": "Jumat",
+      "time": "10.10 - 11.50",
+      "pj_assistant_id": "ASST_005",
+      "assistant_ids": [
+        "ASST_001",
+        "ASST_010",
+        "ASST_011"
+      ]
+    },
+    {
+      "id": "SCHED_015",
+      "course_id": "COURSE_004",
+      "lecturer_id": "LECTURER_004",
+      "class": "B",
+      "day": "Jumat",
+      "time": "13.00 - 15.30",
+      "pj_assistant_id": "ASST_011",
+      "assistant_ids": [
+        "ASST_012",
+        "ASST_014",
+        "ASST_015"
+      ]
+    }
+  ]
+}

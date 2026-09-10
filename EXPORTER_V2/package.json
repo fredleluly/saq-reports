@@ -1,0 +1,17 @@
+{
+  "name": "lab-assistant-report-generator",
+  "version": "1.0.0",
+  "description": "Konversi Node.js dari main.py — Generator laporan asisten lab (DOCX & XLSX)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "docxtemplater": "^3.53.0",
+    "exceljs": "^4.4.0",
+    "pizzip": "^3.1.7"
+  },
+  "optionalDependencies": {
+    "image-size": "^7.0.0"
+  }
+}

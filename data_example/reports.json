@@ -1,0 +1,80 @@
+[
+  {
+    "id": "RPT_816094",
+    "schedule_id": "SCHED_001",
+    "date": "2026-03-16",
+    "formattedDate": "Senin, 16 Maret 2026",
+    "materi": "Pengenalan Mata kuliah",
+    "deskripsiKegiatan": "contoh",
+    "keterangan": "",
+    "attending_assistant_ids": [
+      "ASST_001",
+      "ASST_004",
+      "ASST_006",
+      "ASST_007"
+    ],
+    "status": "hadir",
+    "author": "admin@system.com",
+    "receivedAt": "2026-03-15T21:06:56.100Z",
+    "imagePath": "laporan_images/2026/03/16/laporan_1773608816062.jpeg",
+    "imageFilename": "laporan_1773608816062.jpeg"
+  },
+  {
+    "id": "RPT_838125",
+    "schedule_id": "SCHED_002",
+    "date": "2026-03-16",
+    "formattedDate": "Senin, 16 Maret 2026",
+    "materi": "aggregate",
+    "deskripsiKegiatan": "Online",
+    "keterangan": "sesuai, dosen hadir",
+    "attending_assistant_ids": [
+      "ASST_009",
+      "ASST_011",
+      "ASST_003"
+    ],
+    "status": "hadir",
+    "imagePath": "laporan_images/2026/03/16/laporan_1773647839017.jpeg",
+    "imageFilename": "laporan_1773647839017.jpeg",
+    "author": "35489599987894:39@lid",
+    "receivedAt": "2026-03-16T07:57:18.126Z"
+  },
+  {
+    "id": "RPT_843105",
+    "schedule_id": "SCHED_002",
+    "date": "2026-03-16",
+    "formattedDate": "Senin, 16 Maret 2026",
+    "materi": "aggregate",
+    "deskripsiKegiatan": "Online",
+    "keterangan": "sesuai, dosen hadir",
+    "attending_assistant_ids": [
+      "ASST_009",
+      "ASST_011",
+      "ASST_003"
+    ],
+    "status": "hadir",
+    "imagePath": "laporan_images/2026/03/16/laporan_1773647843298.jpeg",
+    "imageFilename": "laporan_1773647843298.jpeg",
+    "author": "103088476180484@lid",
+    "receivedAt": "2026-03-16T07:57:23.105Z"
+  },
+  {
+    "id": "RPT_993737",
+    "schedule_id": "SCHED_001",
+    "date": "2026-03-17",
+    "formattedDate": "Selasa, 17 Maret 2026",
+    "materi": "Basics",
+    "deskripsiKegiatan": "helo",
+    "keterangan": "helo",
+    "attending_assistant_ids": [
+      "ASST_001",
+      "ASST_004",
+      "ASST_007",
+      "ASST_012"
+    ],
+    "status": "pengganti",
+    "author": "admin@system.com",
+    "receivedAt": "2026-03-16T07:59:53.739Z",
+    "imagePath": "laporan_images/2026/03/16/laporan_1773647993714.jpg",
+    "imageFilename": "laporan_1773647993714.jpg"
+  }
+]

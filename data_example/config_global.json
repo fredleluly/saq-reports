@@ -1,0 +1,26 @@
+{
+  "semester": {
+    "id": "SEM_001",
+    "name": "Ganjil, 2026/2027",
+    "months": [3, 4, 5, 6],
+    "year": 2026
+  },
+  "system": {
+    "cron_time": "15:00",
+    "group_id": "120363424025729902@g.us",
+    "version": "1.0.0",
+    "last_updated": "2025-01-27"
+  },
+  "bot_messages": {
+    "greetings": [
+      "THX u",
+      "IZIIIINNN",
+      "Oke siap cuy",
+      "Mantap sekali NTe",
+      "ANE Hebat!",
+      "Surat cinta diterima",
+      "ASEEKKK atas laporannya"
+    ],
+    "emojis": ["👍", "👌", "✨", "🙏", "😊", "🌟", "💯", "🎉"]
+  }
+}

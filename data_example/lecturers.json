@@ -1,0 +1,44 @@
+{
+  "lecturers": [
+    {
+      "id": "LECTURER_001",
+      "code": "DDY",
+      "name": "Dody, S.Kom., M.Kom"
+    },
+    {
+      "id": "LECTURER_002",
+      "code": "YZA",
+      "name": "Yozika Arvio, ST., M.Kom"
+    },
+    {
+      "id": "LECTURER_003",
+      "code": "MFP",
+      "name": "Muhammad Fadli Prathama, S.Si., M.MS"
+    },
+    {
+      "id": "LECTURER_004",
+      "code": "YSA",
+      "name": "Yessy Asri, S.T., M.MSI"
+    },
+    {
+      "id": "LECTURER_005",
+      "code": "AJS",
+      "name": "Ajay Supriadi, S.Kom., M.Kom."
+    },
+    {
+      "id": "LECTURER_006",
+      "code": "MDA",
+      "name": "Melinda Devi Anjarwati, ST., M.Kom"
+    },
+    {
+      "id": "LECTURER_007",
+      "code": "DAW",
+      "name": "Dewi Arianti Wulandari, S.Kom., MMS"
+    },
+    {
+      "id": "LECTURER_008",
+      "code": "SKM",
+      "name": "Sely Karmila, S.Kom., M.Si"
+    }
+  ]
+}

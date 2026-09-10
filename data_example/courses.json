@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": "COURSE_001",
+      "code": "PSQL",
+      "name": "PEMROGRAMAN SQL",
+      "sks": 2
+    },
+    {
+      "id": "COURSE_002",
+      "code": "ASDS",
+      "name": "Algoritma & Struktur Data (SI)",
+      "sks": 3
+    },
+    {
+      "id": "COURSE_003",
+      "code": "STAT",
+      "name": "Statistik",
+      "sks": 3
+    },
+    {
+      "id": "COURSE_004",
+      "code": "APSI",
+      "name": "ANALISIS DAN PERANCANGAN SI",
+      "sks": 3
+    },
+    {
+      "id": "COURSE_005",
+      "code": "PWBL",
+      "name": "PEMROGRAMAN WEB LANJUT",
+      "sks": 2
+    },
+    {
+      "id": "COURSE_006",
+      "code": "DSGR",
+      "name": "DESAIN GRAFIS",
+      "sks": 3
+    },
+    {
+      "id": "COURSE_007",
+      "code": "VDAA",
+      "name": "VISUALISASI DATA DAN ANALISIS",
+      "sks": 2
+    }
+  ]
+}
